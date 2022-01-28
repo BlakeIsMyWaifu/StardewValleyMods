@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+	<PropertyGroup>
+		<AssemblyName>DiscordPlus</AssemblyName>
+		<Version>1.0.0</Version>
+		<RootNamespace>BlakeIsMyWaifu.Stardew.DiscordPlus</RootNamespace>
+		<TargetFramework>net5.0</TargetFramework>
+		<BundleExtraAssemblies>ThirdParty</BundleExtraAssemblies>
+	</PropertyGroup>
+	<ItemGroup>
+		<PackageReference Include="Pathoschild.Stardew.ModBuildConfig" Version="4.0.0"/>
+		<PackageReference Include="DiscordRichPresence" Version="1.143.0"/>
+		<PackageReference Include="Microsoft.Win32.Registry" Version="5.0.0" />
+	</ItemGroup>
+</Project>

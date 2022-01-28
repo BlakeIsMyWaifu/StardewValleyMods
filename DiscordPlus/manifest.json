@@ -1,0 +1,10 @@
+{
+	"Name": "Discord Plus",
+	"Author": "BlakeIsMyWaifu",
+	"Version": "1.0.0",
+	"Description": "test",
+	"UniqueID": "BlakeIsMyWaifu.DiscordPlus",
+	"EntryDll": "DiscordPlus.dll",
+	"MinimumApiVersion": "3.0.0",
+	"UpdateKeys": []
+}
