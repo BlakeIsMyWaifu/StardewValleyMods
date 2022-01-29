@@ -1,0 +1,10 @@
+{
+	"Name": "Good Morning Vibes",
+	"Author": "BlakeIsMyWaifu",
+	"Version": "1.0.0",
+	"Description": "Sends good morning vibes everyday",
+	"UniqueID": "BlakeIsMyWaifu.GoodMorningVibes",
+	"EntryDll": "GoodMorningVibes.dll",
+	"MinimumApiVersion": "3.0.0",
+	"UpdateKeys": []
+}
